@@ -1,0 +1,276 @@
+confed,country,winter,summer
+OFC,American Samoa,-11,-11
+OFC,Cook Islands,-10,-10
+OFC,Tahiti,-10,-10
+CONCACAF,Belize,-6,-6
+CONCACAF,Costa Rica,-6,-6
+CONCACAF,Costa-Rica,-6,-6
+CONCACAF,El Salvador,-6,-6
+CONCACAF,El-Salvador,-6,-6
+CONCACAF,Guatemala,-6,-6
+CONCACAF,Honduras,-6,-6
+CONCACAF,Nicaragua,-6,-6
+CONCACAF,Cayman Islands,-5,-5
+CONCACAF,Cayman-Islands,-5,-5
+CONMEBOL,Colombia,-5,-5
+CONMEBOL,Ecuador,-5,-5
+CONCACAF,Jamaica,-5,-5
+CONCACAF,Panama,-5,-5
+CONMEBOL,Peru,-5,-5
+CONCACAF,Anguilla,-4,-4
+CONCACAF,Antigua and Barbuda,-4,-4
+CONCACAF,Aruba,-4,-4
+CONCACAF,Bahamas,-5,-4
+CONCACAF,Barbados,-4,-4
+CONMEBOL,Bolivia,-4,-4
+CONCACAF,Bonaire,-4,-4
+CONCACAF,British Virgin Islands,-4,-4
+CONMEBOL,Chile,-3,-4
+CONCACAF,Cuba,-5,-4
+CONCACAF,Curaçao,-4,-4
+CONCACAF,Dominica,-4,-4
+CONCACAF,Dominican Republic,-4,-4
+CONCACAF,Dominican-Republic,-4,-4
+CONCACAF,Grenada,-4,-4
+CONCACAF,Guadeloupe,-4,-4
+CONCACAF,Guyana,-4,-4
+CONCACAF,Haiti,-5,-4
+CONCACAF,Martinique,-4,-4
+CONCACAF,Montserrat,-4,-4
+CONMEBOL,Paraguay,-3,-4
+CONCACAF,Puerto Rico,-4,-4
+CONCACAF,Puerto-Rico,-4,-4
+CONCACAF,Saint Kitts and Nevis,-4,-4
+CONCACAF,Saint Lucia,-4,-4
+CONCACAF,Saint Martin,-4,-4
+CONCACAF,Saint Vincent and the Grenadines,-4,-4
+CONCACAF,Saint-Kitts-and-Nevis,-4,-4
+CONCACAF,Saint-Lucia,-4,-4
+CONCACAF,Saint-Martin,-4,-4
+CONCACAF,Saint-Vincent-and-the-Grenadines,-4,-4
+CONCACAF,Sint Maarten,-4,-4
+CONCACAF,Sint-Maarten,-4,-4
+CONCACAF,Trinidad and Tobago,-4,-4
+CONCACAF,Trinidad-and-Tobago,-4,-4
+CONCACAF,Turks and Caicos Islands,-5,-4
+CONCACAF,Turks-and-Caicos-Islands,-5,-4
+CONCACAF,U.S. Virgin Islands,-4,-4
+CONMEBOL,Venezuela,-4,-4
+CONMEBOL,Argentina,-3,-3
+CONCACAF,Bermuda,-4,-3
+CONCACAF,French Guiana,-3,-3
+CONCACAF,French-Guiana,-3,-3
+CONCACAF,Suriname,-3,-3
+CONMEBOL,Uruguay,-3,-3
+CAF,Cape Verde,-1,-1
+CAF,Burkina Faso,0,0
+CAF,Burkina-Faso,0,0
+CAF,Ghana,0,0
+CAF,Guinea,0,0
+CAF,Guinea Bissau,0,0
+CAF,Guinea-Bissau,0,0
+UEFA,Iceland,0,0
+CAF,Ivory Coast,0,0
+CAF,Ivory-Coast,0,0
+CAF,Liberia,0,0
+CAF,Mali,0,0
+CAF,Mauritania,0,0
+CAF,Sao Tome and Príncipe,0,0
+CAF,São Tomé and Príncipe,0,0
+CAF,Sao-Tome-and-Príncipe,0,0
+CAF,Senegal,0,0
+CAF,Sierra Leone,0,0
+CAF,Sierra-Leone,0,0
+CAF,Togo,0,0
+CAF,Algeria,1,1
+CAF,Angola,1,1
+CAF,Benin,1,1
+CAF,Cameroon,1,1
+CAF,Central African Republic,1,1
+CAF,Central-African-Republic,1,1
+CAF,Chad,1,1
+CAF,Congo,1,1
+CAF,Republic of the Congo,1,1
+UEFA,England,0,1
+CAF,Equatorial Guinea,1,1
+CAF,Equatorial-Guinea,1,1
+UEFA,Faroe Islands,0,1
+UEFA,Faroe-Islands,0,1
+CAF,Gabon,1,1
+CAF,Gambia,1,1
+UEFA,Ireland,0,1
+CAF,Morocco,0,1
+CAF,Niger,1,1
+CAF,Nigeria,1,1
+UEFA,Northern Ireland,0,1
+UEFA,Northern-Ireland,0,1
+UEFA,Portugal,0,1
+UEFA,Scotland,0,1
+CAF,The Gambia,1,1
+CAF,The-Gambia,1,1
+CAF,Tunisia,1,1
+UEFA,Wales,0,1
+UEFA,Albania,1,2
+UEFA,Andorra,1,2
+UEFA,Austria,1,2
+UEFA,Belgium,1,2
+UEFA,Bosnia,1,2
+UEFA,Bosnia and Herzegovina,1,2
+CAF,Botswana,2,2
+CAF,Burundi,2,2
+UEFA,Croatia,1,2
+UEFA,Czech Republic,1,2
+UEFA,Czech-Republic,1,2
+UEFA,Denmark,1,2
+CAF,Egypt,2,2
+CAF,Eswatini,2,2
+CAF,Swaziland,2,2
+UEFA,France,1,2
+UEFA,Germany,1,2
+UEFA,Gibraltar,1,2
+UEFA,Hungary,1,2
+UEFA,Italy,1,2
+UEFA,Kosovo,1,2
+CAF,Lesotho,2,2
+CAF,Libya,2,2
+UEFA,Liechtenstein,1,2
+UEFA,Luxembourg,1,2
+UEFA,Macedonia,1,2
+CAF,Malawi,2,2
+UEFA,Malta,1,2
+UEFA,Monaco,1,2
+UEFA,Montenegro,1,2
+CAF,Mozambique,2,2
+CAF,Namibia,2,2
+UEFA,Netherlands,1,2
+UEFA,Norway,1,2
+UEFA,Poland,1,2
+CAF,Rwanda,2,2
+UEFA,San Marino,1,2
+UEFA,San-Marino,1,2
+UEFA,Serbia,1,2
+UEFA,Slovakia,1,2
+UEFA,Slovenia,1,2
+CAF,South Africa,2,2
+CAF,South Sudan,2,2
+CAF,South-Africa,2,2
+CAF,South-Sudan,2,2
+UEFA,Spain,1,2
+CAF,Sudan,2,2
+UEFA,Sweden,1,2
+UEFA,Switzerland,1,2
+CAF,Zambia,2,2
+CAF,Zimbabwe,2,2
+AFC,Bahrain,3,3
+UEFA,Belarus,3,3
+UEFA,Bulgaria,2,3
+CAF,Comoros,3,3
+UEFA,Cyprus,2,3
+CAF,Djibouti,3,3
+CAF,Eritrea,3,3
+UEFA,Estonia,2,3
+CAF,Ethiopia,3,3
+UEFA,Finland,2,3
+UEFA,Greece,2,3
+AFC,Iraq,3,3
+UEFA,Israel,2,3
+AFC,Jordan,2,3
+CAF,Kenya,3,3
+AFC,Kuwait,3,3
+UEFA,Latvia,2,3
+AFC,Lebanon,2,3
+UEFA,Lithuania,2,3
+CAF,Madagascar,3,3
+UEFA,Moldova,2,3
+AFC,Palestine,2,3
+AFC,Qatar,3,3
+UEFA,Romania,2,3
+AFC,Saudi Arabia,3,3
+AFC,Saudi-Arabia,3,3
+CAF,Somalia,3,3
+AFC,Syria,2,3
+CAF,Tanzania,3,3
+UEFA,Turkey,3,3
+CAF,Uganda,3,3
+UEFA,Ukraine,2,3
+AFC,Yemen,3,3
+CAF,Zanzibar ,3,3
+CAF,Zanzibar,3,3
+UEFA,Armenia,4,4
+UEFA,Azerbaidjan,4,4
+UEFA,Azerbaijan,4,4
+UEFA,Georgia,4,4
+CAF,Mauritius,4,4
+AFC,Oman,4,4
+CAF,Réunion,4,4
+CAF,Seychelles,4,4
+AFC,UAE,4,4
+AFC,United Arab Emirates,4,4
+AFC,United-Arab-Emirates,4,4
+AFC,Afghanistan,4.5,4.5
+AFC,Iran,3.5,4.5
+AFC,Maldives,5,5
+AFC,Pakistan,5,5
+AFC,Tajikistan,5,5
+AFC,The Maldives,5,5
+AFC,The-Maldives,5,5
+AFC,Turkmenistan,5,5
+AFC,Uzbekistan,5,5
+AFC,India,5.5,5.5
+AFC,Sri Lanka,5.5,5.5
+AFC,Sri-Lanka,5.5,5.5
+AFC,Nepal,5.75,5.75
+AFC,Bangladesh,6,6
+AFC,Bhutan,6,6
+AFC,Kyrgyzstan,6,6
+AFC,Myanmar,6.5,6.5
+AFC,Cambodia,7,7
+AFC,Laos,7,7
+AFC,Thailand,7,7
+AFC,Vietnam,7,7
+AFC,Brunei,8,8
+AFC,Brunei Darussalam,8,8
+AFC,Brunei-Darussalam,8,8
+AFC,China,8,8
+AFC,China-PR,8,8
+AFC,Chinese Taipei,8,8
+AFC,Chinese-Taipei,8,8
+AFC,Hong Kong,8,8
+AFC,Hong-Kong,8,8
+AFC,Macau,8,8
+AFC,Malaysia,8,8
+AFC,Mongolia,8,8
+AFC,North Korea,8,8
+AFC,North-Korea,8,8
+AFC,Philippines,8,8
+AFC,Singapore,8,8
+AFC,Taiwan,8,8
+AFC,DPR Korea,9,9
+AFC,DPR-Korea,9,9
+AFC,East Timor,9,9
+AFC,East-Timor,9,9
+AFC,Japan,9,9
+AFC,Korea Republic,9,9
+AFC,Korea-Republic,9,9
+AFC,South Korea,9,9
+AFC,South-Korea,9,9
+AFC,Timor Leste,9,9
+AFC,Timor-Leste,9,9
+AFC,Guam,10,10
+AFC,Northern Mariana Islands,10,10
+AFC,Northern-Mariana-Islands,10,10
+OFC,Papua New Guinea,10,10
+OFC,New Caledonia,11,11
+OFC,Solomon Islands,11,11
+OFC,Solomon-Islands,11,11
+OFC,Vanuatu,11,11
+OFC,Fiji,13,12
+OFC,New Zealand,13,12
+OFC,New-Zealand,13,12
+OFC,Tuvalu,12,12
+OFC,Kiribati,13,13
+OFC,Samoa,13,13
+OFC,Tonga,13,13
+UEFA,United Kingdom,0,1
+UEFA,United-Kingdom,0,1
+UEFA,UK,0,1
